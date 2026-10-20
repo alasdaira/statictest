@@ -11,7 +11,7 @@ A responsive static author website for Reica Gray, themed around Victorian Londo
 
 ## Preview locally
 
-Open `index.html` in a browser. An internet connection is currently needed for the Google Fonts and the two remote Unsplash background images.
+Open `index.html` in a browser. An internet connection is needed only for the optional Google Fonts; the London skyline and music-hall artwork are rendered in CSS, with no external photographs.
 
 ## Publish with GitHub Pages
 
@@ -30,9 +30,9 @@ To use the root address `https://YOUR-USERNAME.github.io/`, name the repository 
 - Replace the placeholder author biography.
 - Change `hello@example.com` in `index.html` to the author's preferred email address.
 - The newsletter/contact section is currently a simple email link, not a subscription form.
-- Replace remote images with properly licensed images or your own images if desired.
-- The page mentions Dan Leno as a real historical figure; check all historical claims and any image permissions before publication.
+- Add properly licensed local artwork to `assets/` if photographs are needed later.
+- The page includes Dan Leno as a genuine historical figure; check historical claims before publication.
 
 ## Customising the look
 
-Edit the CSS variables at the top of `styles.css` to change the palette. The site uses dark charcoal, theatrical wine red, warm paper and antique gold. Google Fonts are loaded from an external service; fallback serif and sans-serif fonts are included.
+Edit the CSS variables at the top of `styles.css` to change the palette. The site uses charcoal blue, muted burgundy, warm ivory and antique gold. Google Fonts are loaded from an external service; fallback serif and sans-serif fonts are included.
