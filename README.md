@@ -1,6 +1,6 @@
-# Reica Gray — Author Website
+# Reica Gray — Stories Behind the Curtain
 
-A simple, responsive static author website concept for Reica Gray, themed around Victorian London's theatrical history.
+A responsive static author website for Reica Gray, themed around Victorian London's theatrical history. It uses warm ivory, charcoal blue, muted burgundy, sepia and antique gold, with an atmospheric London-at-dusk presentation.
 
 ## Files
 
